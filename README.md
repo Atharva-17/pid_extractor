@@ -66,7 +66,6 @@ NEXT_PUBLIC_APP_URL=http://localhost:3000
 - **Database**: Supabase (PostgreSQL)
 - **AI**: Claude 3.5 Sonnet Vision API
 - **Styling**: Tailwind CSS
-- **PDF**: react-pdf, pdf-img-convert
 - **Validation**: Zod
 
 ## Project Flow
